@@ -1,4 +1,6 @@
 Blockchain-Powered Workshop
+![image](https://github.com/user-attachments/assets/e26dbf29-a82f-429f-aade-689b5c315e22)
+
 Vision
 The Blockchain-Powered Workshop smart contract revolutionizes the management of workshops by leveraging blockchain technology. It provides a transparent and automated solution for participant registration, fee collection, attendance tracking, and certification issuance. This system enhances trust, reduces administrative effort, and ensures secure and immutable records.
 
